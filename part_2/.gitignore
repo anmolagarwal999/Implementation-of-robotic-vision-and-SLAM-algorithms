@@ -1,0 +1,7 @@
+__pycache__/
+reading_material/
+tutorial_g2o/
+testing_g2o/
+ext_code/
+saved_pcd_data/bunny_1.pcd
+saved_pcd_data/bunny_2.pcd
