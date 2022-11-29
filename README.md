@@ -1,8 +1,8 @@
-### Robotic-Vision
+# Implementation of some common Robotic-Vision algorithms and pipelines
 
 This repository contains my implementations and explorations of several algorithms and pipelines used in Computer Vision and Robotics, as a part of the "Mobile Robotics" (Monsoon 2022) course.
 
-**The implementations of the above are contained in their respoective part directories.**
+**The implementations of the above are contained in their respective part directories.**
 #### Part-1
 Consists of:
 * a basic overview of euclidean transformations (includes an artificially constructed table scene via Open3D)
